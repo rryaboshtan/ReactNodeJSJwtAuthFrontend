@@ -1,6 +1,6 @@
 ## Technology stack
     - Typescript
-    - React, Redux
-    - Postman
-### 
+    - React, MobX
+    - RefreshTokens
+ 
 
